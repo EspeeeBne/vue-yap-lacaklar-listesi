@@ -1,2 +1,2 @@
 # vue-yap-lacaklar-listesi
-Merhaba bu repository'imizde vue ile yapılacaklar listesi kodladım vue'nin son sürümünü kullandım çalıştırırken hata verebilir projeyi çalıştırmak için vue-cli kurmalısınız kurduktan sonra npm install deyin sonra npm run serve deyin açılır 8080 portunda
+Merhaba bu repository'imizde vue ile yapılacaklar listesi kodladım vue'nin son sürümünü kullandım çalıştırırken hata verebilir ama bende vermedi mysql ya da mongodb kurmakla uğraşmayın diye kendisi json dosyası oluşturuyor otomatik haberiniz olsun projeyi çalıştırmak için vue-cli kurmalısınız kurduktan sonra npm install deyin sonra npm run serve deyin açılır 8080 portunda
